@@ -1,2 +1,0 @@
-# template-godesa
-web
